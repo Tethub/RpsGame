@@ -1,0 +1,23 @@
+.container-1{
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.flex-box-rps img:hover{
+    box-shadow: 0px 10px 50px rgba(37, 50, 233, 1);
+    cursor: pointer;
+}
+
+.flex-box-rps {
+    display: flex;
+    justify-content: space-around;
+}
+
+.results{
+    box-shadow: 0px 10px 50px rgba(37,50,233,1);
+}
+
+.results2{
+    box-shadow: 0px 10px 50px rgba(243, 24, 38, 1);
+}
